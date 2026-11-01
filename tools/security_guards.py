@@ -70,12 +70,15 @@ ALLOWED_PERMISSIONS = {
     # matching what each SKILL.md already declares in its allowed-tools.
     # A portal added by /add-portal needs its own entry here and in
     # .claude/settings.json - that review step is the point.
-    "Bash(bun run .agents/skills/jobbank-search/cli/src/cli.ts:*)",
-    "Bash(bun run .agents/skills/jobdanmark-search/cli/src/cli.ts:*)",
-    "Bash(bun run .agents/skills/jobindex-search/cli/src/cli.ts:*)",
-    "Bash(bun run .agents/skills/jobnet-search/cli/src/cli.ts:*)",
     "Bash(bun run .agents/skills/linkedin-search/cli/src/cli.ts:*)",
     "Bash(bun run .agents/skills/freehire-search/cli/src/cli.ts:*)",
+    "Bash(bun run .agents/skills/careers24-search/cli/src/cli.ts:*)",
+    "Bash(bun run .agents/skills/jobinrwanda-search/cli/src/cli.ts:*)",
+    "Bash(bun run .agents/skills/jobsinkenya-search/cli/src/cli.ts:*)",
+    "Bash(bun run .agents/skills/minajobs-search/cli/src/cli.ts:*)",
+    "Bash(bun run .agents/skills/mycareersfuture-search/cli/src/cli.ts:*)",
+    "Bash(bun run .agents/skills/novojob-search/cli/src/cli.ts:*)",
+    "Bash(bun run .agents/skills/pnet-search/cli/src/cli.ts:*)",
     "Bash(python salary_lookup.py:*)",
     "Bash(python3 salary_lookup.py:*)",
     "Bash(python tools/rank_state.py:*)",
