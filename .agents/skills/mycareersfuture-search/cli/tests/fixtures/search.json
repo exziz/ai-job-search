@@ -1,0 +1,181 @@
+{
+ "results": [
+  {
+   "uuid": "2db3ef16e449b631779c2abe54c28752",
+   "title": "Product Manager - AI Solution",
+   "postedCompany": {
+    "name": "L'OREAL SINGAPORE PTE. LTD."
+   },
+   "hiringCompany": null,
+   "address": {
+    "isOverseas": false,
+    "overseasCountry": null,
+    "districts": [
+     {
+      "region": "Central"
+     }
+    ]
+   },
+   "metadata": {
+    "newPostingDate": "2026-10-14",
+    "originalPostingDate": "2026-09-02",
+    "expiryDate": "2026-11-13",
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/product-manager-ai-solution-loreal-singapore-2db3ef16e449b631779c2abe54c28752"
+   },
+   "salary": {
+    "maximum": 13000,
+    "minimum": 10000,
+    "type": {
+     "id": 4,
+     "salaryType": "Monthly"
+    }
+   },
+   "employmentTypes": [
+    {
+     "id": 7,
+     "employmentType": "Permanent"
+    }
+   ],
+   "positionLevels": [
+    {
+     "id": 7,
+     "position": "Professional"
+    }
+   ],
+   "minimumYearsExperience": 8
+  },
+  {
+   "uuid": "0546d834e8c9e8ef0175e3e56b650797",
+   "title": "Technical Product Manager – Cybersecurity",
+   "postedCompany": {
+    "name": "FLEXXON PTE. LTD."
+   },
+   "hiringCompany": null,
+   "address": {
+    "isOverseas": false,
+    "overseasCountry": null,
+    "districts": [
+     {
+      "region": "Central"
+     }
+    ]
+   },
+   "metadata": {
+    "newPostingDate": "2026-10-11",
+    "originalPostingDate": "2026-10-11",
+    "expiryDate": "2026-11-10",
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/engineering/technical-product-manager-%E2%80%93-cybersecurity-flexxon-0546d834e8c9e8ef0175e3e56b650797"
+   },
+   "salary": {
+    "maximum": 9000,
+    "minimum": 6000,
+    "type": {
+     "id": 4,
+     "salaryType": "Monthly"
+    }
+   },
+   "employmentTypes": [
+    {
+     "id": 7,
+     "employmentType": "Permanent"
+    }
+   ],
+   "positionLevels": [
+    {
+     "id": 3,
+     "position": "Manager"
+    }
+   ],
+   "minimumYearsExperience": 6
+  },
+  {
+   "uuid": "90cccb0f084f1cf8fbcd48f50f2c8eef",
+   "title": "Senior Product Manager APAC",
+   "postedCompany": {
+    "name": "WORLDPAY PTE LTD"
+   },
+   "hiringCompany": null,
+   "address": {
+    "isOverseas": false,
+    "overseasCountry": null,
+    "districts": [
+     {
+      "region": "Central"
+     }
+    ]
+   },
+   "metadata": {
+    "newPostingDate": "2026-10-09",
+    "originalPostingDate": "2026-10-09",
+    "expiryDate": "2026-11-08",
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/others/senior-product-manager-apac-worldpay-90cccb0f084f1cf8fbcd48f50f2c8eef"
+   },
+   "salary": {
+    "maximum": 16000,
+    "minimum": 8000,
+    "type": {
+     "id": 4,
+     "salaryType": "Monthly"
+    }
+   },
+   "employmentTypes": [
+    {
+     "id": 8,
+     "employmentType": "Full Time"
+    }
+   ],
+   "positionLevels": [
+    {
+     "id": 9,
+     "position": "Executive"
+    }
+   ],
+   "minimumYearsExperience": 8
+  },
+  {
+   "uuid": "6c7ea994b4d29d4dab4bd0f8a00e8e8c",
+   "title": "Technical Product Manager",
+   "postedCompany": {
+    "name": "VANGUARD SOFTWARE PTE. LTD."
+   },
+   "hiringCompany": null,
+   "address": {
+    "isOverseas": false,
+    "overseasCountry": null,
+    "districts": [
+     {
+      "region": "Central"
+     }
+    ]
+   },
+   "metadata": {
+    "newPostingDate": "2026-10-12",
+    "originalPostingDate": "2026-08-11",
+    "expiryDate": "2026-11-11",
+    "jobDetailsUrl": "https://www.mycareersfuture.gov.sg/job/information-technology/technical-product-manager-vanguard-software-6c7ea994b4d29d4dab4bd0f8a00e8e8c"
+   },
+   "salary": {
+    "maximum": 9000,
+    "minimum": 7000,
+    "type": {
+     "id": 4,
+     "salaryType": "Monthly"
+    }
+   },
+   "employmentTypes": [
+    {
+     "id": 8,
+     "employmentType": "Full Time"
+    }
+   ],
+   "positionLevels": [
+    {
+     "id": 3,
+     "position": "Manager"
+    }
+   ],
+   "minimumYearsExperience": 6
+  }
+ ],
+ "total": 356
+}
